@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Agent Studio",
+  "description": "A professional platform for building, testing, and deploying custom AI agents powered by Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
